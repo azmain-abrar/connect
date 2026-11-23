@@ -26,7 +26,7 @@ CampusConnect is a university-focused student portal for academic information an
 
 ```bash
 git clone https://github.com/azmain-abrar/campus.git
-cd campusconnect
+cd connect
 npm install
 ```
 
